@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vgmandira7/vgmandira7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 style="font-size:3em;">👨‍💻 Vitor Gabriel |  Futuro Dev FullStack 🚀 </h1>
 
-Here are some ideas to get you started:
+<p style="font-size:1.2em; max-width:700px; text-align:center;"> Olá! Me chamo Vitor, sou apaixonado por programação e tecnologia. 👨‍💻✨<br><br> Estudei na ETEC de Registro, SP, onde concluí o curso técnico de Desenvolvimento de Sistemas integrado ao Ensino Médio em 2024. Finalizei essa etapa após apresentar meu Trabalho de Conclusão de Curso (TCC), que teve como tema o desenvolvimento de um aplicativo mobile voltado para modernizar a gestão de academias.<br><br> Meu projeto conectava alunos e instrutores, permitindo que os profissionais criassem treinos personalizados de acordo com as necessidades de cada aluno, além de facilitar o acompanhamento próximo e eficiente dos seus progressos.<br><br> Atualmente, continuo minha formação na FATEC, cursando Desenvolvimento de Software Multiplataforma. Sou apaixonado pela área de back-end e estou sempre estudando para evoluir, com o objetivo de me tornar um grande desenvolvedor — se Deus quiser! 🚀🙏 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+
+  <h2>📊 Meu GitHub em Números</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight" width="400px" />
+
+  <br><br>
+
+  <h2>🌐 Vamos nos conectar!</h2>
+
+  <p>
+    <a href="mailto:vg.mandira@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/vitor-gabriel-mandira-soares-86a525362/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/vitin_gabriel7/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+
+  <br><br>
+
+  <p>🚀 "A melhor maneira de prever o futuro é criá-lo." 🚀</p>
+  
+</div>
