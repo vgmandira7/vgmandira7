@@ -10,9 +10,11 @@
 
   <h2>📊 Meu GitHub em Números</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vgmandira7&show_icons=true&theme=tokyonight" width="400px" />
+  <div align="center">  
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgmandira7&layout=compact&theme=tokyonight" width="400px" />
+      
+  </div>
+  
 
   <br><br>
 
