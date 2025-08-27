@@ -12,7 +12,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" width="400px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgmandira7&layout=compact&theme=tokyonight" width="400px" />
 
   <br><br>
 
