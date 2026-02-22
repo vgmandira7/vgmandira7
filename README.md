@@ -1,19 +1,30 @@
 <div>
 
-  <h1 style="font-size:3em;">👨‍💻 Vitor Gabriel |  Futuro Dev FullStack 🚀 </h1>
+  <h1 style="font-size:3em;">👨‍💻 Vitor Gabriel |  Futuro Dev Back-End 🚀 </h1>
 
 
 
-<p style="font-size:1.2em; max-width:700px;"> Olá! Me chamo Vitor, tenho 18 anos, sou apaixonado por programação e tecnologia. 👨‍💻✨<br><br> Estudei na ETEC de Registro, SP, onde concluí meus 3 anos de curso de técnico de Desenvolvimento de Sistemas integrado ao Ensino Médio em 2024. Finalizei essa etapa após apresentar meu Trabalho de Conclusão de Curso (TCC). Atualmente, continuo minha formação na FATEC de Registro, SP, cursando Desenvolvimento de Software Multiplataforma. Sou apaixonado pela área de back-end e estou sempre estudando para evoluir, com o objetivo de me tornar um grande desenvolvedor — se Deus quiser! 🚀🙏 </p>
+<p style="font-size:1.2em; max-width:700px;"> Olá! Me chamo Vitor, tenho 19 anos, sou apaixonado por programação e tecnologia. 👨‍💻✨<br><br> Estudei na ETEC de Registro, SP, onde concluí meus 3 anos de curso de técnico de Desenvolvimento de Sistemas integrado ao Ensino Médio em 2024. Finalizei essa etapa após apresentar meu Trabalho de Conclusão de Curso (TCC). Atualmente, continuo minha formação na FATEC de Registro, SP, cursando Desenvolvimento de Software Multiplataforma. Sou apaixonado pela área de back-end e estou sempre estudando para evoluir, com o objetivo de me tornar um grande desenvolvedor — se Deus quiser! 🚀🙏 </p>
 
   <br>
 
-  <h2>📊 Meu GitHub em Números</h2>
+<h2>📊 Meu GitHub em Números</h2>
 
-  <div align="center">  
-  
-      
-  </div>
+<div align="center">
+
+  <span>
+    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vgmandira7&theme=react&show_icons=true"/>
+  </span>
+
+  <a href="https://github.com/maxxdiego">
+    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vgmandira7&layout=compact&langs_count=7&theme=react"/>
+  </a> 
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=vgmandira7&theme=tokyonight&hide_border=true"/>
+
+</div>
   
 
   <br><br>
