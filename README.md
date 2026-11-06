@@ -43,9 +43,7 @@ Minha praia é a lógica pesada por trás das aplicações: **APIs, arquitetura,
 
 <div align="center">
 
-<a href="https://SEU-PORTFOLIO.vercel.app/#projetos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-precobom-dark.svg"><img src="assets/proj-precobom-light.svg" alt="Projeto Preçobom" width="400"></picture></a>
-<a href="https://github.com/vgmandira7/Luna"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-luna-dark.svg"><img src="assets/proj-luna-light.svg" alt="Projeto Projeto Luna" width="400"></picture></a>
-<a href="https://SEU-PORTFOLIO.vercel.app/#projetos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-stok-dark.svg"><img src="assets/proj-stok-light.svg" alt="Projeto Stok" width="400"></picture></a>
+<a href="https://github.com/vgmandira7/Luna"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-luna-dark.svg"><img src="assets/proj-luna-light.svg" alt="Projeto Luna" width="400"></picture></a>
 <a href="https://github.com/vgmandira7/BarbeariaMandira"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-barbearia-dark.svg"><img src="assets/proj-barbearia-light.svg" alt="Projeto Barbearia" width="400"></picture></a>
 <a href="https://SEU-PORTFOLIO.vercel.app/#projetos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-fitvale-dark.svg"><img src="assets/proj-fitvale-light.svg" alt="Projeto Fitvale" width="400"></picture></a>
 

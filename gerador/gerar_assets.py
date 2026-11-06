@@ -370,6 +370,8 @@ proj_links = {
 cards = [pic(f"proj-{p[0]}", f"Projeto {p[3].title()}", 400, proj_links[p[0]]) for p in PROJECTS]
 cards_html = "\n".join(cards)
 
+cards_html = "\n".join(cards)
+
 readme = f"""<div align="center">
 
 {pic("banner", "Vitor Gabriel Mandira Soares — Desenvolvedor Mobile e Back-end")}
