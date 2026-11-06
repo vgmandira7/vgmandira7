@@ -276,15 +276,19 @@ def quote(t):
 
 # ---------------------------------------------------------------- PROJETOS -
 PROJECTS = [
-    ("precobom", "01", "SISTEMA DE LOGÍSTICA", "PREÇOBOM", "API + app + PWA com GPS em tempo real",
-     ["Node.js", "PostGIS", "React Native", "PWA"], "yellow", "PRIVADO"),
-    ("luna", "02", "EDUCAÇÃO COM IA", "PROJETO LUNA", "Plataforma educacional com IA para TDAH",
-     ["Python", "IA", "API REST", "PostgreSQL"], "mint", "PÚBLICO"),
-    ("stok", "03", "WMS MOBILE", "STOK", "Contagem e gestão de inventário",
-     ["React Native", "Expo", "Node.js", "Prisma"], "sky", "PRIVADO"),
-    ("barbearia", "04", "AGENDAMENTO", "BARBEARIA", "Agendamento online para barbearias",
-     ["React", "Node.js", "Express", "MongoDB"], "coral", "PÚBLICO"),
-    ("fitvale", "05", "ACADEMIA & TREINOS", "FITVALE", "App de gestão de academias (TCC)",
+    # ("precobom", "01", "SISTEMA DE LOGÍSTICA", "PREÇOBOM", "API + app + PWA com GPS em tempo real",
+    #  ["Node.js", "PostGIS", "React Native", "PWA"], "yellow", "PRIVADO"),
+
+    ("luna", "01", "EDUCAÇÃO COM IA", "LUNA", "Plataforma educacional com IA para TDAH",
+     ["Python", "IA", "API REST", "MongoDB"], "mint", "PÚBLICO"),
+
+    # ("stok", "02", "WMS MOBILE", "STOK", "Contagem e gestão de inventário",
+    #  ["React Native", "Expo", "Node.js", "Prisma"], "sky", "PRIVADO"),
+
+    ("barbearia", "02", "AGENDAMENTO", "BARBEARIA", "Agendamento online para barbearias",
+     ["React", "Node.js", "Express", "MongoDB"], "coral", "PRIVADO"),
+
+    ("fitvale", "03", "ACADEMIA & TREINOS", "FITVALE", "App de gestão de academias (TCC)",
      ["React Native", "Expo", "PHP", "SQL"], "orange", "TCC"),
 ]
 
@@ -364,6 +368,7 @@ proj_links = {
     "fitvale": f"{PORTFOLIO}/#projetos",
 }
 cards = [pic(f"proj-{p[0]}", f"Projeto {p[3].title()}", 400, proj_links[p[0]]) for p in PROJECTS]
+cards_html = "\n".join(cards)
 
 readme = f"""<div align="center">
 
@@ -410,11 +415,7 @@ Minha praia é a lógica pesada por trás das aplicações: **APIs, arquitetura,
 
 <div align="center">
 
-{cards[0]}
-{cards[1]}
-{cards[2]}
-{cards[3]}
-{cards[4]}
+{cards_html}
 
 </div>
 
