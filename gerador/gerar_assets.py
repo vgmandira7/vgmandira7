@@ -236,7 +236,8 @@ def section_header(t, num, title, accent):
 STACK = [
     ("REACT NATIVE", "sky", -1.5), ("NODE.JS", "lime", 1), ("EXPRESS", "yellow", -1),
     ("PYTHON", "orange", 1.5), ("POSTGRESQL", "blue", -1),
-    ("DOCKER", "cyan", 1), ("PRISMA", "mint", -1.5), ("TYPESCRIPT", "sky", 1), ("GIT / CI-CD", "pink", -1),
+    ("MONGODB", "lime", 1.5), ("DOCKER", "cyan", 1), ("PRISMA", "mint", -1.5),
+    ("TYPESCRIPT", "sky", 1), ("GIT / CI-CD", "pink", -1),
 ]
 
 
