@@ -43,7 +43,7 @@ Minha praia é a lógica pesada por trás das aplicações: **APIs, arquitetura,
 
 <div align="center">
 
-<a href="https://portifolio-vitor-gabriel.vercel.app/#projetos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-precobom-dark.svg"><img src="assets/proj-precobom-light.svg" alt="Projeto Preçobom" width="400"></picture></a>
+<a href="https://SEU-PORTFOLIO.vercel.app/#projetos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-precobom-dark.svg"><img src="assets/proj-precobom-light.svg" alt="Projeto Preçobom" width="400"></picture></a>
 <a href="https://github.com/vgmandira7/Luna"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-luna-dark.svg"><img src="assets/proj-luna-light.svg" alt="Projeto Projeto Luna" width="400"></picture></a>
 <a href="https://SEU-PORTFOLIO.vercel.app/#projetos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-stok-dark.svg"><img src="assets/proj-stok-light.svg" alt="Projeto Stok" width="400"></picture></a>
 <a href="https://github.com/vgmandira7/BarbeariaMandira"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-barbearia-dark.svg"><img src="assets/proj-barbearia-light.svg" alt="Projeto Barbearia" width="400"></picture></a>
@@ -57,10 +57,9 @@ Minha praia é a lógica pesada por trás das aplicações: **APIs, arquitetura,
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vgmandira7&show_icons=true&icon_color=FFE01B&bg_color=1E1E24&title_color=F4F4EF&text_color=F4F4EF&border_color=F4F4EF&border_radius=0&hide_border=false&custom_title=GitHub%20Stats&hide_rank=false&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=vgmandira7&show_icons=true&icon_color=1559FF&bg_color=FFE01B&title_color=0A0A0A&text_color=0A0A0A&border_color=0A0A0A&border_radius=0&hide_border=false&custom_title=GitHub%20Stats&hide_rank=false&count_private=true" alt="Estatísticas do GitHub" width="410"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vgmandira7&layout=compact&langs_count=6&bg_color=1E1E24&title_color=F4F4EF&text_color=F4F4EF&border_color=F4F4EF&border_radius=0&hide_border=false&custom_title=Linguagens"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgmandira7&layout=compact&langs_count=6&bg_color=FFE01B&title_color=0A0A0A&text_color=0A0A0A&border_color=0A0A0A&border_radius=0&hide_border=false&custom_title=Linguagens" alt="Linguagens mais usadas" width="410"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" alt="Painel com commits, pull requests, repositórios, dias ativos, mapa de atividade e linguagens mais usadas"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vgmandira7&border_radius=0&background=1E1E24&stroke=F4F4EF&ring=1559FF&fire=FF2D3A&currStreakNum=F4F4EF&sideNums=F4F4EF&currStreakLabel=F4F4EF&sideLabels=F4F4EF&dates=F4F4EF&hide_border=false"><img src="https://streak-stats.demolab.com?user=vgmandira7&border_radius=0&background=FFE01B&stroke=0A0A0A&ring=1559FF&fire=FF2D3A&currStreakNum=0A0A0A&sideNums=0A0A0A&currStreakLabel=0A0A0A&sideLabels=0A0A0A&dates=0A0A0A&hide_border=false" alt="Sequência de contribuições" width="600"></picture>
+<sub>Atualizado automaticamente todos os dias. “Contribuições” = commits + pull requests + issues + revisões de código.</sub>
 
 </div>
 
