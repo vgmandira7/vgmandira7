@@ -14,7 +14,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-sobre-dark.svg"><img src="assets/h-sobre-light.svg" alt="01 — Sobre mim"></picture>
 
-Olá! Eu sou o **Vitor**, tenho 19 anos e sou apaixonado por programação e tecnologia.
+Olá! Eu sou o **Vitor**, tenho 20 anos e sou apaixonado por programação e tecnologia.
 
 Me formei como **Técnico em Desenvolvimento de Sistemas** na ETEC de Registro-SP (integrado ao Ensino Médio, 2024) e hoje curso **Desenvolvimento de Software Multiplataforma na FATEC de Registro**. Antes mesmo do diploma já resolvia problema real com TI, operações e sistemas internos para empresas locais.
 
@@ -23,7 +23,7 @@ Minha praia é a lógica pesada por trás das aplicações: **APIs, arquitetura,
 - 🔭 **Construindo agora:** PreçoBom (logística), Stok (WMS mobile) e Projeto Luna (educação com IA)
 - 🌱 **Estudando:** arquitetura de sistemas, Docker e CI/CD
 - 💬 **Pode me perguntar sobre:** Node.js, APIs REST, React Native, Prisma e PostgreSQL
-- 📍 **Direto de:** Registro, SP
+- 📍 **Direto de:** Jacupiranga, SP
 
 <div align="center">
 
@@ -43,9 +43,9 @@ Minha praia é a lógica pesada por trás das aplicações: **APIs, arquitetura,
 
 <div align="center">
 
-<a href="https://github.com/vgmandira7/Luna"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-luna-dark.svg"><img src="assets/proj-luna-light.svg" alt="Projeto Luna" width="400"></picture></a>
+<a href="https://github.com/LunaSquad/Luna-Mobile"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-luna-dark.svg"><img src="assets/proj-luna-light.svg" alt="Projeto Luna" width="400"></picture></a>
 <a href="https://github.com/vgmandira7/BarbeariaMandira"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-barbearia-dark.svg"><img src="assets/proj-barbearia-light.svg" alt="Projeto Barbearia" width="400"></picture></a>
-<a href="https://SEU-PORTFOLIO.vercel.app/#projetos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-fitvale-dark.svg"><img src="assets/proj-fitvale-light.svg" alt="Projeto Fitvale" width="400"></picture></a>
+<a href="https://portifolio-vitor-gabriel.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-fitvale-dark.svg"><img src="assets/proj-fitvale-light.svg" alt="Projeto Fitvale" width="400"></picture></a>
 
 </div>
 
